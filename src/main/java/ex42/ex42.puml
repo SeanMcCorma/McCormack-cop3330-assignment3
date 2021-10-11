@@ -1,0 +1,7 @@
+@startuml
+class App{
+Take file with names and salary and output data in a table
++ main()
++String[] split_string(List<String> names,int x)
+}
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+class App{
+Product Search
++ main()
++String ask_user()
++int compare(String[] names, String in)
+
+}
+@enduml

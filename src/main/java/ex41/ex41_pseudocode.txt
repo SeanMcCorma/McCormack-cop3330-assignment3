@@ -1,0 +1,22 @@
+Pseudocode for ex41
+
+Select file from pathname
+Read file in and add each line into List of strings
+close the scanner
+
+Get the size of names for output file
+Create an array of last names
+Create an array of first names
+alphabetically sort names based off last name then first name
+    Compare the last name and first name (if last name is same)
+    if the last name of one is less than the last name of the second flip the spots
+        to flip store a temp variable and flip them
+    if the last names are equal
+        compare the first name
+            if needed flip the names around
+    return a list of the names once flipped
+create the output String
+fill output string alphabetically
+create a file
+write output to the file
+close file

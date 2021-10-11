@@ -1,0 +1,17 @@
+create a list of strings
+take input file and save each word individually into list of strings
+create a two new lists that will be with respect to one another
+create while loop until you run out of words in original list
+    save first word to new list
+    count how many times new word exists
+    remove the word from existing in original list of strings
+Get the maximum length of the longest word
+add spaces to the end of each word so histogram is created properly
+create a final two lists that will be sorted
+create a temporay size for sorting most used to least used
+    create a double for loop for sorting
+        test if the size is higher than the current max
+            save the place within list and the amount
+    save the most used word and remove them from the lists and rerun until lists are empty
+create a string for the amount of stars
+print out each word and then a string of their stars

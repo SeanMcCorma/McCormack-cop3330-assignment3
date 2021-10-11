@@ -1,0 +1,12 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class App{
+Take file with names and create new file with names sorted alphabetically
++ main()
++String[] split_string(List<String> names,int x)
++List<String> alpha(String[] First_name, String[] Last_name)
++String[] flip(String[] names, int first, int second)
++List<String> fill(String[] First_name, String[] Last_name)
+}
+@enduml

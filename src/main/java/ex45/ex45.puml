@@ -1,0 +1,7 @@
+@startuml
+class App{
+Word Finder
++ main()
+
+}
+@enduml

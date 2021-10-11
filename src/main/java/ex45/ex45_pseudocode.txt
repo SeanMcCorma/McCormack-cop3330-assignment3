@@ -1,0 +1,10 @@
+prompt user to input the name of the output file
+take in input file.txt
+read each line
+    create a while loop that runs until the word utilize no longer exists
+        get index that the word utilize exists
+        replace the word utilize with use
+        save to an output string when entire line no longer contains utilize
+create the new file with name that user put in
+write to the new file
+close writer

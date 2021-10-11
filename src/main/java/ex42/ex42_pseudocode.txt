@@ -1,0 +1,9 @@
+create a string list
+input each line into the string list
+separate each part of the string list into their respective parts
+    (Last name)
+    (First name)
+    (salary)
+Start output data table
+print out each set of data from their respective arrays in one output command
+

@@ -1,0 +1,11 @@
+@startuml
+class App{
+Word Frequency Finder
++ main()
++int count(List<String> words, String counter)
++List<String> remove(List<String> words, String counter)
++int max_length(List<String> words)
++List<String> add_spaces(List<String> words, int longest)
+
+}
+@enduml

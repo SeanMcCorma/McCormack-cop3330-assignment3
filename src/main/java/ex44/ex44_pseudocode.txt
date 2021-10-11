@@ -1,0 +1,12 @@
+create multiple string arrays
+    name
+    price
+    quantity
+take in json file and save the values into the array of strings respectively
+create a while loop until user finds a product
+ask user for name of product they are searching for
+if users name is equal to a product name
+    print out name, price and quantity
+    exit while loop
+else
+    tell user that product could not be found

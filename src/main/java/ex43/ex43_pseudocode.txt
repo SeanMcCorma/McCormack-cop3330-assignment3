@@ -1,0 +1,15 @@
+
+    create scanner
+    ask user for the site name - save as string
+    ask user for author - save as string
+    ask user if they want a folder for Javscript - save as char
+    ask user if they want a folder for CSS - save as char
+    create a general html_path
+    use html path to create directory
+    use html name and autho to create index.html
+        fill author into meta
+        fill name in as title
+    if user said yes to javascript folder
+        create javascript folder
+    if user said yes to CSS folder
+        create CSS folder

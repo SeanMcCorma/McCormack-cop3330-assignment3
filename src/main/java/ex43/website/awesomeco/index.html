@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta Max Power>		<meta charset="utf-8">
+		<title>awesomeco</title>
+		<script
+			id="sap-ui-bootstrap"
+			src="/resources/sap-ui-core.js"
+			data-sap-ui-theme="sap_bluecrystal"
+			data-sap-ui-modules="sap.m.library"
+			data-sap-ui-compatVersion="edge"
+			data-sap-ui-preload="async" >
+		</script>
+		<script>
+			sap.ui.getCore().attachInit(function () {
+				new sap.m.Text({
+					text : "OpenUI5 is loaded successfully!"
+				}).placeAt("content");
+			});
+		</script>
+	</head>
+	<body class="sapUiBody" id="content">
+	</body>
+</html>

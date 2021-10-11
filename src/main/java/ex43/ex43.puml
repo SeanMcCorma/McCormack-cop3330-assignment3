@@ -1,0 +1,10 @@
+@startuml
+class App{
+Website Generator
++ main()
++String createDirectory(String html_path,String name)
++String index(String html_path,String name, String author)
++String Java(String name,String html_path)
++String CSS(String name, String html_path)
+}
+@enduml
