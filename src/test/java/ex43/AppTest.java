@@ -3,9 +3,12 @@ package ex43;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
-
+/*
+ *  UCF COP3330 Fall 2021 Assignment 3 Solution
+ *  Copyright 2021 Sean McCormack
+ */
 class AppTest {
-    String html = "src/main/java/ex34/website/test";
+    String html = "src/main/java/ex43/website/test";
     String name = "test";
     String Author = "tester";
     @Test

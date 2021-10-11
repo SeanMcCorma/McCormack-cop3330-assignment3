@@ -7,7 +7,10 @@ import java.util.Arrays;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
-
+/*
+ *  UCF COP3330 Fall 2021 Assignment 3 Solution
+ *  Copyright 2021 Sean McCormack
+ */
 class AppTest {
     List<String> names = Arrays.asList("Ling, Mai", "Johnson, Jim","Zarnecki, Sabrina","Jones, Chris","Jones, Aaron","Swift, Geoffrey","Xiong, Fong");
 //        names.add("Ling, Mai");
